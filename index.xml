@@ -1,0 +1,389 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Molehair on Jiman Hwang</title>
+    <link>/</link>
+    <description>Recent content in Molehair on Jiman Hwang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 26 Mar 2018 00:05:14 -0400</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Grover&#39;s Algorithm</title>
+      <link>/computer-science/grovers-algorithm/</link>
+      <pubDate>Sun, 18 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-science/grovers-algorithm/</guid>
+      <description>Grover&amp;rsquo;s Algorithm.pdf
+Spectral theorem.pdf</description>
+    </item>
+    
+    <item>
+      <title>sin(mx) and cos(mx) in terms of sin(x) and cos(x)</title>
+      <link>/mathematics/sinmx-and-cosmx-in-terms-of-sinx-and-cosx/</link>
+      <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/sinmx-and-cosmx-in-terms-of-sinx-and-cosx/</guid>
+      <description>sin(mx) and cos(mx) in terms of sin(x) and cos(x).pdf</description>
+    </item>
+    
+    <item>
+      <title>Number of nodes of given height in a complete k-ary tree</title>
+      <link>/computer-science/number-of-nodes-of-given-height-in-a-complete-k-ary-tree/</link>
+      <pubDate>Sat, 11 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-science/number-of-nodes-of-given-height-in-a-complete-k-ary-tree/</guid>
+      <description>Number of nodes of given height in a complete k-ary tree.pdf</description>
+    </item>
+    
+    <item>
+      <title>Finding the longest monotonically increasing subsequence of a sequence of n numbers in O(nlgn)</title>
+      <link>/computer-science/finding-the-longest-monotonically-increasing-subsequence-of-a-sequence-of-n-numbers-in-onlgn/</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-science/finding-the-longest-monotonically-increasing-subsequence-of-a-sequence-of-n-numbers-in-onlgn/</guid>
+      <description>Finding the longest monotonically increasing subsequence of a sequence of n numbers in O(nlgn).pdf</description>
+    </item>
+    
+    <item>
+      <title>Periodicity of squared root of natural numbers</title>
+      <link>/mathematics/periodicity-of-squared-root-of-natural-numbers/</link>
+      <pubDate>Tue, 21 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/periodicity-of-squared-root-of-natural-numbers/</guid>
+      <description>Periodicity of squared root of natural numbers.pdf</description>
+    </item>
+    
+    <item>
+      <title>Derivation of wave equation</title>
+      <link>/mathematics/derivation-of-wave-equation/</link>
+      <pubDate>Sat, 26 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/derivation-of-wave-equation/</guid>
+      <description>Derivation of wave equation.pdf</description>
+    </item>
+    
+    <item>
+      <title>Principal Component Analysis(PCA)</title>
+      <link>/mathematics/principal-component-analysispca/</link>
+      <pubDate>Sat, 22 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/principal-component-analysispca/</guid>
+      <description>Principal Component Analysis(PCA).pdf</description>
+    </item>
+    
+    <item>
+      <title>Period Finding</title>
+      <link>/computer-science/period-finding/</link>
+      <pubDate>Wed, 28 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-science/period-finding/</guid>
+      <description>Period Finding.pdf
+Proof of Problem 4.1: here</description>
+    </item>
+    
+    <item>
+      <title>Continued Fractions Approximation</title>
+      <link>/mathematics/continued-fractions-approximation/</link>
+      <pubDate>Mon, 12 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/continued-fractions-approximation/</guid>
+      <description>Continued Fractions Approximation.pdf</description>
+    </item>
+    
+    <item>
+      <title>Prime Number Estimate</title>
+      <link>/mathematics/prime-number-estimate/</link>
+      <pubDate>Sun, 11 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/prime-number-estimate/</guid>
+      <description>Prime Number Estimate.pdf</description>
+    </item>
+    
+    <item>
+      <title>Fourier Transform</title>
+      <link>/mathematics/fourier-transform/</link>
+      <pubDate>Sun, 24 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/fourier-transform/</guid>
+      <description>Fourier Transform.pdf</description>
+    </item>
+    
+    <item>
+      <title>Quantum Fourier Transform</title>
+      <link>/computer-science/quantum-fourier-transform/</link>
+      <pubDate>Mon, 27 Jun 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-science/quantum-fourier-transform/</guid>
+      <description>Quantum-Fourier-Transform.pdf</description>
+    </item>
+    
+    <item>
+      <title>Spectral Theorem (includng complex)</title>
+      <link>/mathematics/spectral-theorem-includng-complex/</link>
+      <pubDate>Sat, 30 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/spectral-theorem-includng-complex/</guid>
+      <description>Spectral Theorem (includng complex).pdf</description>
+    </item>
+    
+    <item>
+      <title>Master Theorem</title>
+      <link>/computer-science/master-theorem/</link>
+      <pubDate>Sun, 13 Mar 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/computer-science/master-theorem/</guid>
+      <description>master-theorem.pdf</description>
+    </item>
+    
+    <item>
+      <title>Linear MMSE for Random Vectors</title>
+      <link>/mathematics/linear-mmse-for-random-vectors/</link>
+      <pubDate>Thu, 04 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/linear-mmse-for-random-vectors/</guid>
+      <description>Linear MMSE for Random Vectors.pdf</description>
+    </item>
+    
+    <item>
+      <title>Minimum Mean Squared Error(MMSE) of an Estimator</title>
+      <link>/mathematics/minimum-mean-squared-errormmse-of-an-estimator/</link>
+      <pubDate>Thu, 04 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/minimum-mean-squared-errormmse-of-an-estimator/</guid>
+      <description>Minimum Mean Squared Error(MMSE) of an Estimator.pdf</description>
+    </item>
+    
+    <item>
+      <title>The relationship between chi squared and normal samples</title>
+      <link>/mathematics/the-relationship-between-chi-squared-and-normal-samples/</link>
+      <pubDate>Mon, 01 Feb 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/the-relationship-between-chi-squared-and-normal-samples/</guid>
+      <description>The relationship between chi squared and normal samples.pdf</description>
+    </item>
+    
+    <item>
+      <title>Young&#39;s inequality and Hölder&#39;s Inequality for probability</title>
+      <link>/mathematics/youngs-inequality-and-ho%CC%88lders-inequality-for-probability/</link>
+      <pubDate>Thu, 14 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/youngs-inequality-and-ho%CC%88lders-inequality-for-probability/</guid>
+      <description>Young&amp;rsquo;s inequality and Hölder&amp;rsquo;s Inequality for probability.pdf</description>
+    </item>
+    
+    <item>
+      <title>Central Limit Theorem(CLT)</title>
+      <link>/mathematics/central-limit-theoremclt/</link>
+      <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/central-limit-theoremclt/</guid>
+      <description>Central Limit Theorem(CLT).pdf</description>
+    </item>
+    
+    <item>
+      <title>Determinant of covariance matrix is zero.</title>
+      <link>/mathematics/determinant-of-covariance-matrix-is-zero./</link>
+      <pubDate>Sat, 09 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/determinant-of-covariance-matrix-is-zero./</guid>
+      <description>Determinant of covariance matrix is zero.pdf</description>
+    </item>
+    
+    <item>
+      <title>Singular Value Decomposition(SVD)</title>
+      <link>/mathematics/singular-value-decompositionsvd/</link>
+      <pubDate>Tue, 24 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/singular-value-decompositionsvd/</guid>
+      <description>Singular Value Decomposition(SVD).pdf</description>
+    </item>
+    
+    <item>
+      <title>Spectral Theorem</title>
+      <link>/mathematics/spectral-theorem/</link>
+      <pubDate>Tue, 24 Nov 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/spectral-theorem/</guid>
+      <description>This document is for self-study only.
+Spectral Theorem.pdf
+Why did they name it “Spectral”?</description>
+    </item>
+    
+    <item>
+      <title>Dean&#39;s list 2015 Spring</title>
+      <link>/activity/deans-list-2015-spring/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/activity/deans-list-2015-spring/</guid>
+      <description>Thanks. </description>
+    </item>
+    
+    <item>
+      <title>KAIST machine learning camp</title>
+      <link>/activity/kaist-machine-learning-camp/</link>
+      <pubDate>Fri, 28 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/activity/kaist-machine-learning-camp/</guid>
+      <description>There was online learning camp at elice.io regarding Machine Learning(ML). I knew the content was hot those days(and still is), and enrolled the class.
+The programming assignments were easy because of utilization of pre-implemented code. I just filled blank space with some codes. That&amp;rsquo;s why I have to do study ML again for myself. Four weeks was too short to take the regular course of one semester, which I expected. However, the good thing was that I knew the subjects that ML deals with.</description>
+    </item>
+    
+    <item>
+      <title>Cauchy&#39;s mean value theorem</title>
+      <link>/mathematics/cauchys-mean-value-theorem/</link>
+      <pubDate>Tue, 11 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/cauchys-mean-value-theorem/</guid>
+      <description>This document is for self study only.
+Cauchy&amp;rsquo;s mean value theorem.pdf</description>
+    </item>
+    
+    <item>
+      <title>Taylor Theorem</title>
+      <link>/mathematics/taylor-theorem/</link>
+      <pubDate>Tue, 11 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/taylor-theorem/</guid>
+      <description>This document is for self study only.
+Taylor Theorem.pdf</description>
+    </item>
+    
+    <item>
+      <title>Normal Distribution</title>
+      <link>/mathematics/normal-distribution/</link>
+      <pubDate>Tue, 21 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/normal-distribution/</guid>
+      <description>Source: here
+Normal Distribution.pdf</description>
+    </item>
+    
+    <item>
+      <title>Bernoulli Numbers</title>
+      <link>/mathematics/bernoulli-numbers/</link>
+      <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/bernoulli-numbers/</guid>
+      <description>Bernoulli-Numbers.pdf</description>
+    </item>
+    
+    <item>
+      <title>Euler-Maclaurin formula</title>
+      <link>/mathematics/euler-maclaurin-formula/</link>
+      <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/euler-maclaurin-formula/</guid>
+      <description>Euler-Maclaurin-formula.pdf</description>
+    </item>
+    
+    <item>
+      <title>Stirling&#39;s approximation</title>
+      <link>/mathematics/stirlings-approximation/</link>
+      <pubDate>Sun, 05 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/stirlings-approximation/</guid>
+      <description>Stirlings-approximation.pdf</description>
+    </item>
+    
+    <item>
+      <title>Reversing Lecture(undergraduate)</title>
+      <link>/activity/reversing-lectureundergraduate/</link>
+      <pubDate>Fri, 05 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/activity/reversing-lectureundergraduate/</guid>
+      <description>A reversing lecture was held June 5, 2015. by HIT lab for undergraduate students who were participating dissertation project, and some of students in software department. The course materials were [Easy Keygen], and [ImagePrc] at reversing.kr. Thank you for your attendance even upcoming final exam.</description>
+    </item>
+    
+    <item>
+      <title>SKKU bug bounty</title>
+      <link>/activity/skku-bug-bounty/</link>
+      <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/activity/skku-bug-bounty/</guid>
+      <description>SKKU bug bounty(2015. 5.4. – 5.15.) was the first bug bounty held among universities in Korea. Though there was a limitation about target sites, it was not bad considering the fact that it was the first try.
+I found one that steals name, site ID, department, student ID, cellphone #, address, and email of members of Sungkyunkwan univ. including professors, and staffs as well as students regardless of graduation. I wish they break the limitation, not just some sites, i.</description>
+    </item>
+    
+    <item>
+      <title>Graduation project(undergraduate, Computer Science)</title>
+      <link>/activity/graduation-projectundergraduate-computer-science/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/activity/graduation-projectundergraduate-computer-science/</guid>
+      <description>Analysis and Implementation of Remote Code Execution through Flash Player Vulnerability and Crafted Web Site
+Implementation of CVE-2014-0515. Not bad that I explored some innerwork of Flash player.
+Here&amp;rsquo;s a brief procedure about how my work operates.
+ The attacker runs a web server and builds a site that uses the malicious flash player file. A victim connects to the site. Note that anyone can be a victim if he/she connects to the site without patched Flash Player.</description>
+    </item>
+    
+    <item>
+      <title>Open Reverse Lecture</title>
+      <link>/activity/open-reverse-lecture/</link>
+      <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/activity/open-reverse-lecture/</guid>
+      <description>An open lecture was held by HIT lab regarding basic reversing skills for undergraduate students. Students who were interesting in reversing participated in the lecture.
+Poster
+Four classes for two days(2015. 4.7 / 4.9), I lectured the last one. I recomposed this exploit which includes stack overflow, how to build a PoC, and what payload could be.
+Lecture material: GOM.pdf</description>
+    </item>
+    
+    <item>
+      <title>Chinese Remainder Theorem</title>
+      <link>/mathematics/chinese-remainder-theorem/</link>
+      <pubDate>Sat, 07 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/chinese-remainder-theorem/</guid>
+      <description>Chinese Remainder Theorem.pdf</description>
+    </item>
+    
+    <item>
+      <title>Wallis Product</title>
+      <link>/mathematics/wallis-product/</link>
+      <pubDate>Sun, 04 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/mathematics/wallis-product/</guid>
+      <description>This document is for self study only.
+Wallis Product.pdf</description>
+    </item>
+    
+    <item>
+      <title>Graduation project(undergraduate, Mechanical Engineering)</title>
+      <link>/activity/graduation-projectundergraduate-mechanical-engineering/</link>
+      <pubDate>Wed, 03 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/activity/graduation-projectundergraduate-mechanical-engineering/</guid>
+      <description>As a senior in Mechanical Engineering, I was demanded to participate in a project for my diploma. Among many projects, one in RISE lab intrigued me. The project entailed programming skills as well as knowledge of mechanical engineering.
+Problem:
+ Given a range sensor, make a mobile robot navigate a corridor environment. Full exploration is proven by acquiring the entire map.
+ Generalized Voronoi Graph(GVG) is one of famous methods for a mobile robot to walk through corridor areas.</description>
+    </item>
+    
+    <item>
+      <title>Robot competition</title>
+      <link>/activity/robot-competition/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/activity/robot-competition/</guid>
+      <description>Check out this video for information about Robot competition, powered by RISE lab.
+It was during the class named Design Laboratory on Vibration and Dynamic Systems on the Spring, 2014.
+Here is our team&amp;rsquo;s product.
+          Given some elements; three motors, two laser sensors, one sonar sensor, and peripheral parts, it was hard for us to defeat each stage in 3 minutes, especially the challenges including collecting blocks, and climbing up a slope.</description>
+    </item>
+    
+    <item>
+      <title>ConnApp 2013 - Inaudible frequency communication</title>
+      <link>/activity/connapp-2013---inaudible-frequency-communication/</link>
+      <pubDate>Fri, 20 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/activity/connapp-2013---inaudible-frequency-communication/</guid>
+      <description>ConnApp is a mobile app competition, one of subprojects of Seoul Accord. Our team(Kiyeol Lim, Jiman Hwang, Dongeui Kim) made two simple apps(a provider and a beneficiary) that communicates each other over inaudible frequency.
+In a market, each section has one or more providing speaker, making an inaudible sound. On the other hand, a shopper&amp;rsquo;s smartphone operating the beneficiary app receives and analyzes the sound, and shows a web page provided by seller.</description>
+    </item>
+    
+  </channel>
+</rss>

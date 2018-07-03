@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2018-03-26T00:05:14-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/computer-science/grovers-algorithm/</loc>
+    <lastmod>2018-03-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/sinmx-and-cosmx-in-terms-of-sinx-and-cosx/</loc>
+    <lastmod>2018-01-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/computer-science/number-of-nodes-of-given-height-in-a-complete-k-ary-tree/</loc>
+    <lastmod>2017-11-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/computer-science/finding-the-longest-monotonically-increasing-subsequence-of-a-sequence-of-n-numbers-in-onlgn/</loc>
+    <lastmod>2017-10-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/periodicity-of-squared-root-of-natural-numbers/</loc>
+    <lastmod>2017-03-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/derivation-of-wave-equation/</loc>
+    <lastmod>2016-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/principal-component-analysispca/</loc>
+    <lastmod>2016-10-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/computer-science/period-finding/</loc>
+    <lastmod>2016-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/continued-fractions-approximation/</loc>
+    <lastmod>2016-09-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/prime-number-estimate/</loc>
+    <lastmod>2016-09-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/fourier-transform/</loc>
+    <lastmod>2016-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/computer-science/quantum-fourier-transform/</loc>
+    <lastmod>2016-06-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/spectral-theorem-includng-complex/</loc>
+    <lastmod>2016-04-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/computer-science/master-theorem/</loc>
+    <lastmod>2016-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/linear-mmse-for-random-vectors/</loc>
+    <lastmod>2016-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/minimum-mean-squared-errormmse-of-an-estimator/</loc>
+    <lastmod>2016-02-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/the-relationship-between-chi-squared-and-normal-samples/</loc>
+    <lastmod>2016-02-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/youngs-inequality-and-ho%CC%88lders-inequality-for-probability/</loc>
+    <lastmod>2016-01-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/central-limit-theoremclt/</loc>
+    <lastmod>2016-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/determinant-of-covariance-matrix-is-zero./</loc>
+    <lastmod>2016-01-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/singular-value-decompositionsvd/</loc>
+    <lastmod>2015-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/spectral-theorem/</loc>
+    <lastmod>2015-11-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/activity/deans-list-2015-spring/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/activity/kaist-machine-learning-camp/</loc>
+    <lastmod>2015-08-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/cauchys-mean-value-theorem/</loc>
+    <lastmod>2015-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/taylor-theorem/</loc>
+    <lastmod>2015-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/normal-distribution/</loc>
+    <lastmod>2015-07-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/bernoulli-numbers/</loc>
+    <lastmod>2015-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/euler-maclaurin-formula/</loc>
+    <lastmod>2015-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/stirlings-approximation/</loc>
+    <lastmod>2015-07-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/activity/reversing-lectureundergraduate/</loc>
+    <lastmod>2015-06-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/activity/skku-bug-bounty/</loc>
+    <lastmod>2015-06-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/activity/graduation-projectundergraduate-computer-science/</loc>
+    <lastmod>2015-05-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/activity/open-reverse-lecture/</loc>
+    <lastmod>2015-04-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/chinese-remainder-theorem/</loc>
+    <lastmod>2015-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/mathematics/wallis-product/</loc>
+    <lastmod>2015-01-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/activity/graduation-projectundergraduate-mechanical-engineering/</loc>
+    <lastmod>2014-12-03T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/activity/robot-competition/</loc>
+    <lastmod>2014-06-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/activity/connapp-2013---inaudible-frequency-communication/</loc>
+    <lastmod>2013-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/activity/</loc>
+    <lastmod>2015-10-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/computer-science/</loc>
+    <lastmod>2018-03-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/mathematics/</loc>
+    <lastmod>2018-01-13T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
