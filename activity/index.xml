@@ -6,10 +6,19 @@
     <description>Recent content in Activity on Jiman Hwang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/activity/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introducing Annoyer</title>
+      <link>/activity/introducing-annoyer/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/activity/introducing-annoyer/</guid>
+      <description>Cramming vocabularies for the test is boring and inefficient. Annoyer helps you to learn them constantly.</description>
+    </item>
     
     <item>
       <title>Dean&#39;s list 2015 Spring</title>
