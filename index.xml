@@ -386,12 +386,21 @@ Here is our team&amp;rsquo;s product.
     
     <item>
       <title>ConnApp 2013 - Inaudible frequency communication</title>
-      <link>/activity/connapp-2013---inaudible-frequency-communication/</link>
+      <link>/activity/connapp-2013-inaudible-frequency-communication/</link>
       <pubDate>Fri, 20 Dec 2013 00:00:00 +0000</pubDate>
       
-      <guid>/activity/connapp-2013---inaudible-frequency-communication/</guid>
+      <guid>/activity/connapp-2013-inaudible-frequency-communication/</guid>
       <description>ConnApp is a mobile app competition, one of subprojects of Seoul Accord. Our team(Kiyeol Lim, Jiman Hwang, Dongeui Kim) made two simple apps(a provider and a beneficiary) that communicates each other over inaudible frequency.
 In a market, each section has one or more providing speaker, making an inaudible sound. On the other hand, a shopper&amp;rsquo;s smartphone operating the beneficiary app receives and analyzes the sound, and shows a web page provided by seller.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/public/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/public/</guid>
+      <description></description>
     </item>
     
   </channel>
