@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project on Jiman Hwang</title>
+    <link>/project/</link>
+    <description>Recent content in Project on Jiman Hwang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 16 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iRRAMx: a static C&#43;&#43; library for scientific computations</title>
+      <link>/project/irramx/</link>
+      <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/project/irramx/</guid>
+      <description>iRRAMx is a static C++ library that provides functionalities for rigorous scientific computations. It is designed in the way that it extends iRRAM. iRRAM is another C++ library that provides exact real-number computation. iRRAM provides data type REAL for real numbers and primitive operators for the field arithmetic of real numbers. They are computed exactly in iRRAM such that they do not introduce any rounding errors! Going beyond and based on those primitive operations, this extension provides more advanced data types and operations for continuous mathematics.</description>
+    </item>
+    
+    <item>
+      <title>Annoyer: flashcard-like vocabulary memorization system</title>
+      <link>/project/annoyer/</link>
+      <pubDate>Sat, 09 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/project/annoyer/</guid>
+      <description>Similar to Flashcard, Annoyer is a system for memorizing vocabulary. It had been developed for high availability. You don’t need to find a pile of cards for learning words or idioms. Your smartphone will keep you studying deliberately.
+Features  Paced learning  Given some words and idioms, Annoyer will show you them at every constant time(30 mins). This is done for some hours(8 hours), daily.   Your own words or idioms  You need to feed words or idioms to Annoyer.</description>
+    </item>
+    
+  </channel>
+</rss>

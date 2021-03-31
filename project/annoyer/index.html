@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="map[]" />
+    <meta name="description" content="Molehair">
+    <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico">
+    <title>Annoyer: flashcard-like vocabulary memorization system</title>
+    <meta name="generator" content="Hugo 0.82.0" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="/css/main.css" /><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/tomorrow.min.css">
+    
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200bold,400old" />
+    
+    <!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+    
+  </head>
+
+  <body>
+    <div id="wrap">
+
+      
+      <nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/"><i class="fa fa-home"></i></a>
+    </div>
+    <div id="navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+        <li><a href="/project/">Projects</a></li>
+        
+        
+        <li><a href="/resume.pdf">Resume</a></li>
+        
+        
+        <li><a href="/cv.pdf">CV</a></li>
+        
+        
+        <li><a href="/etc/">etc</a></li>
+        
+        
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+
+      
+      <div class="container">
+        <div class="blog-post">
+          <h3>
+            <strong><a href="/project/annoyer/">Annoyer: flashcard-like vocabulary memorization system</a></strong>
+          </h3>
+        </div>
+        <div class="blog-title">
+          <h4>
+          February 9, 2019
+            &nbsp;&nbsp;
+            
+          </h4>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <div class="blogpost">
+              <p>Similar to <a href="https://en.wikipedia.org/wiki/Flashcard">Flashcard</a>, <strong>Annoyer</strong> is a system for memorizing vocabulary. It had been developed for high availability. You don’t need to find a pile of cards for learning words or idioms. Your smartphone will keep you studying deliberately.</p>
+<h2 id="features">Features</h2>
+<ul>
+<li>Paced learning
+<ul>
+<li>Given some words and idioms, Annoyer will show you them at every constant time(30 mins).</li>
+<li>This is done for some hours(8 hours), daily.</li>
+</ul>
+</li>
+<li>Your own words or idioms
+<ul>
+<li>You need to feed words or idioms to Annoyer.</li>
+<li>I believe crawling on your own is good for learning by heart.</li>
+</ul>
+</li>
+<li>Daily test
+<ul>
+<li>You should either sort out the definition of a term or fill in the blanks of the example sentence.</li>
+</ul>
+</li>
+<li>The Less you know, the more practice
+<ul>
+<li>The level system let you see terms you have trouble more frequently.</li>
+</ul>
+</li>
+</ul>
+<h2 id="implementation">Implementation</h2>
+<ul>
+<li>Client: <a href="https://web.dev/progressive-web-apps/">PWA</a> using <a href="https://reactjs.org/">React</a></li>
+<li>Server: <a href="https://expressjs.com/">ExpressJS</a> along with <a href="https://www.mongodb.com/">MongoDB</a></li>
+<li>The communication between them is done via <a href="https://en.wikipedia.org/wiki/Representational_state_transfer">RESTful API</a>.</li>
+</ul>
+<h2 id="screenshots">Screenshots</h2>
+<p>​</p>
+<h4 id="main">Main</h4>
+<p float="left">
+  <img src="/project/annoyer/termList.png" width=200>
+  <img src="/project/annoyer/setTerm.png" width=200>
+  <img src="/project/annoyer/settings.png" width=200>
+</p>
+<h4 id="practice">Practice</h4>
+<p float="left">
+  <img src="/project/annoyer/practice.png" width=200>
+</p>
+<h4 id="test">Test</h4>
+<p float="left">
+  <img src="/project/annoyer/test1.png" width=200>
+  <img src="/project/annoyer/test2.png" width=200>
+</p>
+<p>Check out: <a href="https://github.com/molehair/annoyer"><i class="fa fa-github"></i></a></p>
+
+              
+            </div>
+          </div>
+          <hr>
+        
+        </div>
+      </div>
+      
+    </div>
+
+    
+    <footer>
+  <div id="footer">
+    <div class="container">
+      <p class="text-muted">&copy; All rights reserved. Powered by <a href="https://gohugo.io/">Hugo</a> and
+      <a href="http://www.github.com/nurlansu/hugo-sustain/">sustain</a> with ♥</p>
+    </div>
+  </div>
+</footer>
+<div class="footer"></div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="/js/docs.min.js"></script>
+<script src="/js/main.js"></script>
+
+<script src="/js/ie10-viewport-bug-workaround.js"></script><!-- Syntax highlighting -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+    
+  </body>
+</html>

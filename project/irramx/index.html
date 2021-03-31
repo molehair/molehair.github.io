@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="author" content="map[]" />
+    <meta name="description" content="Molehair">
+    <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico">
+    <title>iRRAMx: a static C&#43;&#43; library for scientific computations</title>
+    <meta name="generator" content="Hugo 0.82.0" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="/css/main.css" /><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/styles/tomorrow.min.css">
+    
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,400,200bold,400old" />
+    
+    <!--[if lt IE 9]>
+			<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+			<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+		<![endif]-->
+
+    
+  </head>
+
+  <body>
+    <div id="wrap">
+
+      
+      <nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/"><i class="fa fa-home"></i></a>
+    </div>
+    <div id="navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+        <li><a href="/project/">Projects</a></li>
+        
+        
+        <li><a href="/resume.pdf">Resume</a></li>
+        
+        
+        <li><a href="/cv.pdf">CV</a></li>
+        
+        
+        <li><a href="/etc/">etc</a></li>
+        
+        
+      
+      </ul>
+    </div>
+  </div>
+</nav>
+
+      
+      <div class="container">
+        <div class="blog-post">
+          <h3>
+            <strong><a href="/project/irramx/">iRRAMx: a static C&#43;&#43; library for scientific computations</a></strong>
+          </h3>
+        </div>
+        <div class="blog-title">
+          <h4>
+          March 16, 2021
+            &nbsp;&nbsp;
+            
+          </h4>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <div class="blogpost">
+              <p><a href="https://github.com/realcomputation/iRRAMx">iRRAMx</a> is a static C++ library that provides functionalities for rigorous scientific computations. It is designed in the way that it extends <a href="https://github.com/fbrausse/iRRAM">iRRAM</a>. iRRAM is another C++ library that provides exact real-number computation. iRRAM provides data type REAL for real numbers and primitive operators for the field arithmetic of real numbers. They are computed exactly in iRRAM such that they do not introduce any rounding errors! Going beyond and based on those primitive operations, this extension provides more advanced data types and operations for continuous mathematics.</p>
+<p>This had been conducted by <a href="http://kaist.theoryofcomputation.asia/">Complexity and Real Computation lab</a>. My task was to make an abstract data structure for Compact subsets in Euclidean space, providing</p>
+<ul>
+<li>Membership checking, and</li>
+<li>Drawing figure(for 2D)</li>
+</ul>
+<p>in exact real computation.</p>
+<h2 id="implementation">Implementation</h2>
+<p>Based on iRRAM, all codes are written in C++.</p>
+<h2 id="examples">Examples</h2>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+.tg .tg-uzvj{border-color:inherit;font-weight:bold;text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-uzvj">Image</th>
+    <th class="tg-uzvj">Name</th>
+    <th class="tg-uzvj">Formula</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lboi"><img src="/project/iRRAMx/sampleCompact.png" width=200 /></td>
+    <td class="tg-lboi">Unit square</td>
+    <td class="tg-lboi">f:[0,1]²×ℕ → {0,1}<br>f(u,v,p)=1 if the distance from (x,y) to unit rectangle is less than 2⁻ᴾ</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi"><img src="/project/iRRAMx/samplePath1.png" width=200 /></td>
+    <td class="tg-lboi">Prolate cycloid</td>
+    <td class="tg-lboi">f:[0,1] → ℝ²<br>f(t) = (16πt+3sin(8πt), 3cos(8πt))</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi"><img src="/project/iRRAMx/samplePath2.png" width=200 /></td>
+    <td class="tg-lboi">Whirl</td>
+    <td class="tg-lboi">f:[0,1] → ℝ²<br>f(t)=(8πtcos(8πt), 8πtsin(8πt))</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi"><img src="/project/iRRAMx/sampleSurface1.png" width=200 /></td>
+    <td class="tg-lboi">Filled sin function</td>
+    <td class="tg-lboi">f:[0,1]² → ℝ²<br>f(u,v) = (6πu, vsin(6πu))</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi"><img src="/project/iRRAMx/sampleSurface2.png" width=200 /></td>
+    <td class="tg-lboi">Whirl 2</td>
+    <td class="tg-lboi">f:[0,1]² → ℝ²<br>f(u,v) = (rcosθ, rsinθ)<br>    where r = 4πu, θ = 4πu(2v+3)/5</td>
+  </tr>
+</tbody>
+</table>
+<p>​
+Check out my contribution(username <em>molehair</em>): <a href="https://github.com/realcomputation/iRRAMx"><i class="fa fa-github"></i></a></p>
+
+              
+            </div>
+          </div>
+          <hr>
+        
+        </div>
+      </div>
+      
+    </div>
+
+    
+    <footer>
+  <div id="footer">
+    <div class="container">
+      <p class="text-muted">&copy; All rights reserved. Powered by <a href="https://gohugo.io/">Hugo</a> and
+      <a href="http://www.github.com/nurlansu/hugo-sustain/">sustain</a> with ♥</p>
+    </div>
+  </div>
+</footer>
+<div class="footer"></div>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+<script src="/js/docs.min.js"></script>
+<script src="/js/main.js"></script>
+
+<script src="/js/ie10-viewport-bug-workaround.js"></script><!-- Syntax highlighting -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.7.0/highlight.min.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+    
+  </body>
+</html>

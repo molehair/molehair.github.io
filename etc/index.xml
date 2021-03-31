@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Etc on Jiman Hwang</title>
+    <link>/etc/</link>
+    <description>Recent content in Etc on Jiman Hwang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 01 Oct 2015 00:00:00 +0000</lastBuildDate><atom:link href="/etc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dean&#39;s list 2015 Spring</title>
+      <link>/etc/deans-list-2015-spring/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/etc/deans-list-2015-spring/</guid>
+      <description>Thanks. </description>
+    </item>
+    
+    <item>
+      <title>Reversing Lecture(undergraduate)</title>
+      <link>/etc/reversing-lectureundergraduate/</link>
+      <pubDate>Fri, 05 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/etc/reversing-lectureundergraduate/</guid>
+      <description>A reversing lecture was held June 5, 2015. by HIT lab for undergraduate students who were participating dissertation project, and some of students in software department. The course materials were [Easy Keygen], and [ImagePrc] at reversing.kr. Thank you for your attendance even upcoming final exam.</description>
+    </item>
+    
+    <item>
+      <title>SKKU bug bounty</title>
+      <link>/etc/skku-bug-bounty/</link>
+      <pubDate>Wed, 03 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/etc/skku-bug-bounty/</guid>
+      <description>SKKU bug bounty(2015. 5.4. – 5.15.) was the first bug bounty held among universities in Korea. Though there was a limitation about target sites, it was not bad considering the fact that it was the first try.
+I found one that steals name, site ID, department, student ID, cellphone #, address, and email of members of Sungkyunkwan univ. including professors, and staffs as well as students regardless of graduation. I wish they break the limitation, not just some sites, i.</description>
+    </item>
+    
+    <item>
+      <title>Graduation project(undergraduate, Computer Science)</title>
+      <link>/etc/graduation-projectundergraduate-computer-science/</link>
+      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/etc/graduation-projectundergraduate-computer-science/</guid>
+      <description>Analysis and Implementation of Remote Code Execution through Flash Player Vulnerability and Crafted Web Site
+Implementation of CVE-2014-0515. Not bad that I explored some innerwork of Flash player.
+Here&amp;rsquo;s a brief procedure about how my work operates.
+ The attacker runs a web server and builds a site that uses the malicious flash player file. A victim connects to the site. Note that anyone can be a victim if he/she connects to the site without patched Flash Player.</description>
+    </item>
+    
+    <item>
+      <title>Open Reverse Lecture</title>
+      <link>/etc/open-reverse-lecture/</link>
+      <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/etc/open-reverse-lecture/</guid>
+      <description>An open lecture was held by HIT lab regarding basic reversing skills for undergraduate students. Students who were interesting in reversing participated in the lecture.
+Poster
+Four classes for two days(2015. 4.7 / 4.9), I lectured the last one. I recomposed this exploit which includes stack overflow, how to build a PoC, and what payload could be.
+Lecture material: GOM.pdf</description>
+    </item>
+    
+    <item>
+      <title>Graduation project(undergraduate, Mechanical Engineering)</title>
+      <link>/etc/graduation-projectundergraduate-mechanical-engineering/</link>
+      <pubDate>Wed, 03 Dec 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/etc/graduation-projectundergraduate-mechanical-engineering/</guid>
+      <description>As a senior in Mechanical Engineering, I was demanded to participate in a project for my diploma. Among many projects, one in RISE lab intrigued me. The project entailed programming skills as well as knowledge of mechanical engineering.
+Problem:
+ Given a range sensor, make a mobile robot navigate a corridor environment. Full exploration is proven by acquiring the entire map.
+ Generalized Voronoi Graph(GVG) is one of famous methods for a mobile robot to walk through corridor areas.</description>
+    </item>
+    
+    <item>
+      <title>Robot competition</title>
+      <link>/etc/robot-competition/</link>
+      <pubDate>Mon, 30 Jun 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/etc/robot-competition/</guid>
+      <description>Check out this video for information about Robot competition, powered by RISE lab.
+It was during the class named Design Laboratory on Vibration and Dynamic Systems on the Spring, 2014.
+Here is our team&amp;rsquo;s product.
+        Given some elements; three motors, two laser sensors, one sonar sensor, and peripheral parts, it was hard for us to defeat each stage in 3 minutes, especially the challenges including collecting blocks, and climbing up a slope.</description>
+    </item>
+    
+    <item>
+      <title>ConnApp 2013 - Inaudible frequency communication</title>
+      <link>/etc/connapp-2013-inaudible-frequency-communication/</link>
+      <pubDate>Fri, 20 Dec 2013 00:00:00 +0000</pubDate>
+      
+      <guid>/etc/connapp-2013-inaudible-frequency-communication/</guid>
+      <description>ConnApp is a mobile app competition, one of subprojects of Seoul Accord. Our team(Kiyeol Lim, Jiman Hwang, Dongeui Kim) made two simple apps(a provider and a beneficiary) that communicates each other over inaudible frequency.
+In a market, each section has one or more providing speaker, making an inaudible sound. On the other hand, a shopper&amp;rsquo;s smartphone operating the beneficiary app receives and analyzes the sound, and shows a web page provided by seller.</description>
+    </item>
+    
+  </channel>
+</rss>
