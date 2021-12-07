@@ -1,0 +1,115 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'Jiman Hwang'
+theme = "gokarna"
+
+
+
+# Automatically generate robots.txt
+enableRobotsTXT = true
+
+[menu]
+  # [[menu.main]]
+  #   # Unique identifer for a menu item
+  #   identifier = "posts"
+
+  #   url = "/posts/"
+    
+  #   # You can add extra information before the name (HTML format is supported), such as icons
+  #   pre = ""
+
+  #   # You can add extra information after the name (HTML format is supported), such as icons
+  #   post = ""
+
+  #   # Display name
+  #   name = "Posts"
+
+  #   # Weights are used to determine the ordering
+  #   weight = 100
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 200
+
+  [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/cv/"
+    weight = 300
+
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume/"
+    weight = 400
+    
+  [[menu.main]]
+    identifier = "github"
+    url = "https://github.com/molehair"
+    weight = 800
+    
+    # We use feather-icons: https://feathericons.com/
+    pre = "<span data-feather='github'></span>"
+
+
+[params]
+  # URL for the avatar on homepage
+  avatarURL = "/profile/profile.jpg"
+
+  # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
+  avatarSize = ""
+
+  # Email
+  # text font generator: https://fsymbols.com/generators/lines/
+  email = "pingdummy1@̲gmail.̲com"
+
+  # Description to display on homepage
+  description = "pingdummy1@̲gmail.̲com"
+  
+  # To display icons on the homepage, simply update the `socialIcons`
+  # config param with a list of name and url of each icon. The specified `name`
+  # should exactly match one of the names from
+  # [here](https://github.com/526avijitgupta/gokarna/tree/main/static/icons).
+  #
+  # If you want to add more icons, you can download the svg directly from
+  # [here](https://simpleicons.org/) and place them in your local icons
+  # directory (`/static/icons/`)
+  socialIcons = [
+    {name = "github", url = "https://molehair.github.io"},
+  ]
+
+  # Accent color is displayed when you hover over <a> tags
+  accentColor = "#08F"
+
+  # You can use this to inject any HTML in the <head> tag.
+  # Ideal usecase for this is to import custom js/css or add your analytics snippet
+  customHeadHTML = '''
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css" integrity="sha384-R4558gYOUz8mP9YWpZJjofhk+zx0AS11p36HnD2ZKj/6JR5z27gSSULCNHIRReVs" crossorigin="anonymous">
+
+    <!-- The loading of KaTeX is deferred to speed up page rendering -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js" integrity="sha384-z1fJDqw8ZApjGO3/unPWUPsIymfsJmyrDVWC8Tv/a1HeOtGmkwNd/7xUS0Xcnvsx" crossorigin="anonymous"></script>
+
+    <!-- To automatically render math in text elements, include the auto-render extension: -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/contrib/auto-render.min.js" integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR" crossorigin="anonymous"
+        onload="renderMathInElement(document.body);"></script>
+  '''
+
+  # Keywords relevant for SEO
+  # metaKeywords = ["blog", "gokarna", "hugo"]
+
+  # If you want to display posts on the homepage, the options are
+  # "popular" (order posts by weight), "recent" (order posts by date)
+  # or "" (do not display, default option)
+  # showPostsOnHomePage = ""
+
+  # Footer text
+  # footer = "The Marauders"
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      # for using html in markup
+      unsafe = true
