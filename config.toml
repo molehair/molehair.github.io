@@ -77,7 +77,7 @@ enableRobotsTXT = true
   # [here](https://simpleicons.org/) and place them in your local icons
   # directory (`/static/icons/`)
   socialIcons = [
-    {name = "github", url = "https://molehair.github.io"},
+    {name = "github", url = "https://github.com/molehair"},
   ]
 
   # Accent color is displayed when you hover over <a> tags
